@@ -12,4 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require soundcloud_sdk
+//= require scripts
 //= require_tree .

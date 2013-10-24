@@ -1,0 +1,15 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #468966;
+  color: #ffffff;
+  font-family: 'Georgia'
+}
+
+h1 {
+  margin-top: 80px;
+}
+
+form {
+}
